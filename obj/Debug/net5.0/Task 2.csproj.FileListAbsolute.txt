@@ -1,0 +1,29 @@
+E:\Task 2\bin\Debug\net5.0\appsettings.Development.json
+E:\Task 2\bin\Debug\net5.0\appsettings.json
+E:\Task 2\bin\Debug\net5.0\Task 2.exe
+E:\Task 2\bin\Debug\net5.0\Task 2.deps.json
+E:\Task 2\bin\Debug\net5.0\Task 2.runtimeconfig.json
+E:\Task 2\bin\Debug\net5.0\Task 2.runtimeconfig.dev.json
+E:\Task 2\bin\Debug\net5.0\Task 2.dll
+E:\Task 2\bin\Debug\net5.0\ref\Task 2.dll
+E:\Task 2\bin\Debug\net5.0\Task 2.pdb
+E:\Task 2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Task 2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Task 2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Task 2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Task 2\obj\Debug\net5.0\Task 2.csproj.AssemblyReference.cache
+E:\Task 2\obj\Debug\net5.0\Task 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Task 2\obj\Debug\net5.0\Task 2.AssemblyInfoInputs.cache
+E:\Task 2\obj\Debug\net5.0\Task 2.AssemblyInfo.cs
+E:\Task 2\obj\Debug\net5.0\Task 2.csproj.CoreCompileInputs.cache
+E:\Task 2\obj\Debug\net5.0\Task 2.MvcApplicationPartsAssemblyInfo.cs
+E:\Task 2\obj\Debug\net5.0\Task 2.MvcApplicationPartsAssemblyInfo.cache
+E:\Task 2\obj\Debug\net5.0\staticwebassets\Task 2.StaticWebAssets.Manifest.cache
+E:\Task 2\obj\Debug\net5.0\staticwebassets\Task 2.StaticWebAssets.xml
+E:\Task 2\obj\Debug\net5.0\scopedcss\bundle\Task 2.styles.css
+E:\Task 2\obj\Debug\net5.0\Task 2.RazorTargetAssemblyInfo.cache
+E:\Task 2\obj\Debug\net5.0\Task 2.csproj.CopyComplete
+E:\Task 2\obj\Debug\net5.0\Task 2.dll
+E:\Task 2\obj\Debug\net5.0\ref\Task 2.dll
+E:\Task 2\obj\Debug\net5.0\Task 2.pdb
+E:\Task 2\obj\Debug\net5.0\Task 2.genruntimeconfig.cache
